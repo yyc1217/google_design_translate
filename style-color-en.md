@@ -504,7 +504,7 @@ Bold use of color in large fields in the UI is strongly encouraged. Different el
 
 ### Accent color
 
-The vibrant accent color are used for your primary action buttons as well as components such as switchers or sliders. Left aligned section icons or section titles can also take on the accent color
+Use the accent color for your primary action button and components like switches or sliders.
 
 ![](images/style/style-color-colorapplication-color_application-05_large_xhdpi.png)
 
@@ -512,7 +512,7 @@ The vibrant accent color are used for your primary action buttons as well as com
 
 ### Fallback accent colors
 
-If your accent color is to light or dark for the background color the general fallback rule is to choose a darker or lighter tint of the accent color. If your accent color doesn’t work at all, fall back to use the primary 500 color on white backgrounds. If the background color is the primary 500 color fall back to white 100% or black 54%.
+If your accent color is too light or dark for the background color, the general fallback rule is to choose a darker or lighter tint of the accent color. If your accent color doesn’t work at all, use the primary 500 color on white backgrounds. If the background color is the primary 500 color use white 100% or black 54%.
 
 
 ![](images/style/style-color-colorapplication-color_application-04_large_xhdpi.png)
